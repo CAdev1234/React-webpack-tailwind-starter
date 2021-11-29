@@ -6,7 +6,7 @@ This starter template is setup for using regular Javascript (.js, .jsx) and/or T
 
 Webpack has been configured for es6/javascript/typescript, scss, and react hot loader support.
 
-I hope it works for you, feel free to star ⭐️ the repo. [Give Me a follow on Github](https://github.com/maddog986)
+I hope it works for you, feel free to star ⭐️ the repo. [Give Me a follow on Github](https://github.com/hazard4233)
 
 To get started, clone the project and install the dependencies:
 
